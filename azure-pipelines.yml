@@ -23,8 +23,8 @@ steps:
   inputs:
     SourceFolder: '$(System.DefaultWorkingDirectory)'
     Contents: |
-      src\httpouterror.html
-      src\httpouterror.js
+      **/*.js
+      **/*.json
       package.json
       README.md
       LICENSE
