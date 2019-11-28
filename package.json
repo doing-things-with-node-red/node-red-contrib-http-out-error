@@ -7,7 +7,8 @@
     "url": "git+https://github.com/doing-things-with-node-red/node-red-contrib-http-out-error.git"
   },
   "keywords": [
-    "node-red"
+    "node-red",
+    "node-red-contrib"
   ],
   "author": "Yeray Medina López",
   "license": "ISC",
