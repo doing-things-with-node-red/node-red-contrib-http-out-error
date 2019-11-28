@@ -1,0 +1,26 @@
+{
+  "name": "node-red-contrib-http-out-error",
+  "version": "1.0.0",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doing-things-with-node-red/node-red-contrib-http-out-error.git"
+  },
+  "keywords": [
+    "node-red"
+  ],
+  "author": "Yeray Medina López",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/doing-things-with-node-red/node-red-contrib-http-out-error/issues"
+  },
+  "homepage": "https://github.com/doing-things-with-node-red/node-red-contrib-http-out-error#readme",
+  "node-red": {
+    "nodes": {
+      "http-out-error": "src/httpouterror.js"
+    }
+  },
+  "dependencies": {
+    "http-errors": "1.7.3"
+  }
+}
