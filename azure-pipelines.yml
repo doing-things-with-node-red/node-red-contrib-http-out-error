@@ -23,7 +23,8 @@ steps:
   inputs:
     SourceFolder: '$(System.DefaultWorkingDirectory)'
     Contents: |
-      **\src\**
+      src\**\*.html
+      src\**\*.js
       package.json
       README.md
       LICENSE
