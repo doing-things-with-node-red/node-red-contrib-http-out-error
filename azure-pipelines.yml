@@ -23,8 +23,8 @@ steps:
   inputs:
     SourceFolder: '$(System.DefaultWorkingDirectory)'
     Contents: |
-      **\*.js
-      **\*.json
+      src\*.html
+      src\*.js
       package.json
     TargetFolder: '$(Build.ArtifactStagingDirectory)'
 
