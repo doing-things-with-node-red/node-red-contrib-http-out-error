@@ -1,4 +1,8 @@
 [![Build Status](https://dev.azure.com/doing-things-with-node-red/node-red-contrib/_apis/build/status/doing-things-with-node-red.node-red-contrib-http-out-error?branchName=master)](https://dev.azure.com/doing-things-with-node-red/node-red-contrib/_build/latest?definitionId=1&branchName=master)
+[![npm](https://img.shields.io/npm/dw/@doing-things-with-node-red/node-red-contrib-http-out-error.svg)](https://www.npmjs.com/package/@doing-things-with-node-red/node-red-contrib-http-out-error)
+[![npm](https://img.shields.io/npm/dm/@doing-things-with-node-red/node-red-contrib-http-out-error.svg)](https://www.npmjs.com/package/@doing-things-with-node-red/node-red-contrib-http-out-error)
+[![npm](https://img.shields.io/npm/dy/@doing-things-with-node-red/node-red-contrib-http-out-error.svg)](https://www.npmjs.com/package/@doing-things-with-node-red/node-red-contrib-http-out-error)
+[![npm](https://img.shields.io/npm/dt/@doing-things-with-node-red/node-red-contrib-http-out-error.svg)](https://www.npmjs.com/package/@doing-things-with-node-red/node-red-contrib-http-out-error)
 
 # node-red-contrib-http-response-error
 
