@@ -8,7 +8,7 @@
 
 It's a [**Node-RED**](http://nodered.org/) custom node allowing to use [http-errors](https://github.com/jshttp/http-errors) to response in a easy way with a http error on a catch node.
 
-[![EXAMPLE FLOW](https://i.imgur.com/8rrFG4F.png)](https://i.imgur.com/8rrFG4F.png)
+[![EXAMPLE FLOW](https://i.imgur.com/8rrFG4F.png)](https://i.imgur.com/8rrFG4F.png) [![Greenkeeper badge](https://badges.greenkeeper.io/doing-things-with-node-red/node-red-contrib-http-out-error.svg)](https://greenkeeper.io/)
 
 ## Dependencies
 
