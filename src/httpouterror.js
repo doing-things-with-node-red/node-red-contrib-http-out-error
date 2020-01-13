@@ -221,7 +221,7 @@ module.exports = (RED) => {
     node.on('input', (msg) => {
       try {
         if (msg.res) {
-            const statusCode = msg.statusCode || 500;
+            const statusCode = msg.statusCode >= 400 ? msg.statusCode : 500;
             const httpError = getHttpError(statusCode);
             // parse msg Headers and Cookies:
             msg = HTTPOut(msg);
