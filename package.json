@@ -1,6 +1,6 @@
 {
   "name": "@doing-things-with-node-red/node-red-contrib-http-out-error",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "It's a Node-RED custom node allowing to use http-errors to response in a easy way with a http error on a catch node.",
   "repository": {
     "type": "git",
