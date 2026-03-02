@@ -22,6 +22,6 @@
     }
   },
   "dependencies": {
-    "http-errors": "1.7.3"
+    "http-errors": "2.0.1"
   }
 }
